@@ -34,8 +34,11 @@ Eventually when I need it this will work as a CommonJS (node.js/CouchDB/browseri
 
 ## Related work
 
-c.f. <http://www.quirksmode.org/js/detect.html> and probably many many others but I got sick of not being able to find them
+c.f. <http://www.quirksmode.org/js/detect.html> and <http://www.javascripter.net/faq/browsern.htm> probably many many others but I got sick of not being able to find them
 
+<https://developer.mozilla.org/en-US/docs/Browser_Detection_and_Cross_Browser_Support>
+<http://www.useragentstring.com/pages/links.php> / <http://www.useragentstring.com/pages/All/>
+<http://tools.ietf.org/html/rfc2616#section-14.43>
 
 ## Fine print
 
