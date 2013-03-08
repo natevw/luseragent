@@ -52,3 +52,7 @@ function luserAgent(mess) {
     
     return ua;
 }
+
+if (typeof window === 'undefined') {
+    module.exports = luserAgent;
+}

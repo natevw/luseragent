@@ -1,0 +1,21 @@
+{
+  "name": "luseragent",
+  "version": "0.8.0",
+  "description": "Human-friendly user agent information",
+  "main": "luser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/natevw/luseragent.git"
+  },
+  "keywords": [
+    "browser",
+    "debugging",
+    "localization"
+  ],
+  "author": "Nathan Vander Wilt",
+  "license": "WTFPL",
+  "readmeFilename": "README.md"
+}
