@@ -41,7 +41,7 @@ function luserAgent(mess) {
     // TODO: this could be significantly more clever but works in common cases
     if (comments.length) {
         var parts = comments[0].split(/;\s*/);
-        console.log(parts);
+        //console.log(parts);
         if (parts[0] === 'compatible' && parts.length > 2) ua.os = parts[2];
         else if (parts[0] === 'Linux' && parts.length > 2) ua.os = parts[2];
         else ua.os = parts[0];
