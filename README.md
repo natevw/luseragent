@@ -2,7 +2,7 @@
 
 Pardon my French?
 
-So I guess it's [cute](http://webaim.org/blog/user-agent-string-history/) but most days I really don't give a about [all this](http://www.nczonline.net/blog/2010/01/12/history-of-the-user-agent-string/) browser user agent <abbr title="shit">detritus</abbr>.
+So I guess it's [cute](http://webaim.org/blog/user-agent-string-history/) but most days I really don't give a flipsicle about [all this](http://www.nczonline.net/blog/2010/01/12/history-of-the-user-agent-string/) browser user agent <abbr title="shit">detritus</abbr>.
 
 I just want to know which browser, which version, which operating system.
 
