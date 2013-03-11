@@ -28,7 +28,7 @@ Eventually when I need it this will work as a CommonJS (node.js/CouchDB/browseri
 - you have heard of Modernizr, and
 - you have filed a bug for the browser bug you are fighting
 
-**Then** you may use the provided information to gaurd a carefully considered workaround for said browser bug.
+**Then** you may use the provided information to guard a carefully considered workaround for said browser bug.
 
 **Else** you may only use this library for human consumption (e.g. reable browser info for statitics or exception logs)
 
