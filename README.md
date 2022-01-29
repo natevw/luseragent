@@ -1,3 +1,7 @@
+Update: see <https://github.com/natevw/id-est> for a new take on this.
+
+---
+
 # L'user Agent
 
 Pardon my French?
